@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924115252600",
+    "firebase_url": "https://cdms-f77d3.firebaseio.com",
+    "project_id": "cdms-f77d3",
+    "storage_bucket": "cdms-f77d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924115252600:android:98110581b24c6e08ccc48d",
+        "android_client_info": {
+          "package_name": "com.example.course_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924115252600-7ej4rq8par37giia6enh703o1qprgr8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.course_management_system",
+            "certificate_hash": "0ef747702bde933f0beaacb123b0511e51a98f8b"
+          }
+        },
+        {
+          "client_id": "924115252600-h9jmd7209mc0tr1os66c3b21tlc9ktc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUOsO5Zaa5iSl1C71UCFpbNZNKy8Zz3lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924115252600-h9jmd7209mc0tr1os66c3b21tlc9ktc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
